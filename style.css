@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#apps{
+    background-color: blueviolet;
+}
+#games{
+    background-color: blue;
+}
+.line{
+    height: 6px;
+    background-color: rgb(14, 169, 94);
+    width: 70px;
+    margin: 8px auto;
+}
